@@ -1,0 +1,2 @@
+# superconductive_materials_critical_temperature_prediction_7300
+NEU IE7300 Project expansion: predict the critical temperature of superconductive materials
